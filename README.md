@@ -1,7 +1,7 @@
 # Curs Scratch for Arduino S4A
 
-[img1]: ./Imatges/s4alogo.png "S4A"
-[img2]: ./Imatges/arduinologo.png "Arduino"
+[img1]: ./tutorial-s4a/Imatges/s4alogo.png "S4A"
+[img2]: ./tutorial-s4a/Imatges/arduinologo.png "Arduino"
 
 [Contingut del curs](Index.md)
 
